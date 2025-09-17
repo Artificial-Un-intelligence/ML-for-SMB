@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DemandForecaster": {
+      "commandName": "Project",
+      "commandLineArgs": "--sku SKU-001"
+    }
+  }
+}
